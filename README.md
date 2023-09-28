@@ -3,9 +3,9 @@ Truth Table Generator
 
 I'm translating this  into Python.
 
-=====================  
+---------------------  
 Original  
-=====================  
+---------------------  
 
 This is a JavaScript program which will generate a truth table given a well-formed formula of truth-functional logic.  You can enter multiple formulas separated by commas to include more than one formula in a single table (e.g. to test for entailment).  Tables can be displayed in html (either the full table or the column under the main connective only), plain text, or LaTeX. You can also select  which symbols to use for the two truth values and the connectives.
 
